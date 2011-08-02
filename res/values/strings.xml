@@ -29,4 +29,8 @@ row, each column, and each of the 3x3 boxes
     <string name="easy_title">Easy</string>
     <string name="medium_title">Medium</string>
     <string name="hard_title">Hard</string>
+    
+    <string name="game_title">Game</string>
+    <string name="no_moves_label">No Moves</string>
+    <string name="keypad_title">Keypad</string>
 </resources>
